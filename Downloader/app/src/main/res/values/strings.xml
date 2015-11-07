@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Downloader</string>
+
+    <string name="url_input_title">Enter URL of the File</string>
+    <string name="default_url">http://www.winlab.rutgers.edu/~janne/mobisys14gesturesecurity.pdf</string>
+    <string name="action_settings">Settings</string>
+    <string name="download_button">Download</string>
+    <string name="viewLog_button">View Log</string>
+    <string name="radioButton1">Any Network</string>
+    <string name="radioButton2">Any WiFi</string>
+    <string name="radioButton3">Rutgers WiFi Only</string>
+    <string name="title_activity_main2">Downloader Log</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>

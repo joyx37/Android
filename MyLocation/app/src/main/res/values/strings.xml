@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyLocation</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_checked_in_places">Checked In Places</string>
+    <string name="title_activity_display_accuracy">DisplayAccuracy</string>
+</resources>
