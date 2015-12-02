@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Steganos</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view_contacts">ViewContacts</string>
+    <string name="title_activity_choose_textor_image">ChooseTextorImage</string>
+    <string name="title_activity_text_in_image_stegnos">TextInImageStegnos</string>
+    <string name="title_activity_decrypt">Decrypt</string>
+    <string name="title_activity_image_in_image_stegnos">ImageInImageStegnos</string>
+</resources>
