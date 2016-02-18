@@ -10,3 +10,5 @@ User's can draw any gestures using up to 5 fingers.
 Downloader App
 Download any file by entering its URL.
 
+MyCamera App
+The app allowes the user to capture an image. Also the app will automatically capture a ten second video and a still image in the end when the phone is suddenly lifted up. 
